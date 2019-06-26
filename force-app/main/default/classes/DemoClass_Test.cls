@@ -9,6 +9,6 @@ private with sharing class DemoClass_Test {
 
     @isTest
     private static void testDemoClass() {
-        DemoClass obj = new DemoClass();
+        new DemoClass();
     }
 }
